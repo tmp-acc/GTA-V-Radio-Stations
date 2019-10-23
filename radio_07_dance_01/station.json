@@ -1,0 +1,42 @@
+{
+  "tag": "radio_07_dance_01",
+  "info": {
+    "title": "Soulwax FM",
+    "genre": "Electronic music",
+    "logo": "radio_07_dance_01.png",
+    "dj": "Soulwax"
+  },
+  "fileGroups": [
+    {
+      "tag": "track",
+      "files": [
+        {
+          "tag": "p1",
+          "path": "soulwax_fm_final_mix_32k.m4a",
+          "duration": 2566.67,
+          "audibleDuration": 2565.9
+        }
+      ]
+    }
+  ],
+  "playlist": {
+    "firstFragment": {
+      "fragmentTag": "track"
+    },
+    "fragments": [
+      {
+        "tag": "track",
+        "src": {
+          "type": "file",
+          "groupTag": "track",
+          "fileTag": "p1"
+        },
+        "nextFragment": [
+          {
+            "fragmentTag": "track"
+          }
+        ]
+      }
+    ]
+  }
+}
