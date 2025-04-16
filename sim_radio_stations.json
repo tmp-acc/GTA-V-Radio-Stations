@@ -1873,11 +1873,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 24.25,
-              "audibleDuration": 22.93
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 18.57,
               "audibleDuration": 17.278
@@ -1911,6 +1906,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 29.9,
               "audibleDuration": 28.478
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 24.25,
+              "audibleDuration": 22.93
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -3357,11 +3357,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 19.05,
-              "audibleDuration": 18.046
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 23.11,
               "audibleDuration": 21.9
@@ -3395,6 +3390,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 21.18,
               "audibleDuration": 20.11
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 19.05,
+              "audibleDuration": 18.046
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -4633,11 +4633,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 18.62,
-              "audibleDuration": 17.49
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 22.73,
               "audibleDuration": 21.673
@@ -4671,6 +4666,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 15.26,
               "audibleDuration": 13.97
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 18.62,
+              "audibleDuration": 17.49
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -5472,11 +5472,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 28.0,
-              "audibleDuration": 27.177
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 18.13,
               "audibleDuration": 17.342
@@ -5510,6 +5505,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 25.01,
               "audibleDuration": 24.08
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 28.0,
+              "audibleDuration": 27.177
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -6450,11 +6450,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 83.63,
-              "audibleDuration": 82.5
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 29.37,
               "audibleDuration": 28.0
@@ -6487,6 +6482,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 26.29,
               "audibleDuration": 25.42
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 83.63,
+              "audibleDuration": 82.5
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -7728,11 +7728,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 13.89,
-              "audibleDuration": 12.99
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 12.0,
               "audibleDuration": 10.878
@@ -7766,6 +7761,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 6.65,
               "audibleDuration": 5.5666
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 13.89,
+              "audibleDuration": 12.99
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -8928,11 +8928,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 21.45,
-              "audibleDuration": 20.62
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 35.55,
               "audibleDuration": 34.5
@@ -8966,6 +8961,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 24.01,
               "audibleDuration": 23.017
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 21.45,
+              "audibleDuration": 20.62
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -10008,11 +10008,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 13.09,
-              "audibleDuration": 12.073
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 29.74,
               "audibleDuration": 28.606
@@ -10045,6 +10040,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 24.91,
               "audibleDuration": 23.57
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 13.09,
+              "audibleDuration": 12.073
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -11139,11 +11139,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 23.34,
-              "audibleDuration": 22.4
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 22.69,
               "audibleDuration": 21.694
@@ -11177,6 +11172,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 12.89,
               "audibleDuration": 11.41
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 23.34,
+              "audibleDuration": 22.4
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -11981,11 +11981,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 32.01,
-              "audibleDuration": 30.761
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 33.71,
               "audibleDuration": 32.3
@@ -12019,6 +12014,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 24.72,
               "audibleDuration": 23.721
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 32.01,
+              "audibleDuration": 30.761
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
@@ -12955,11 +12955,6 @@
           "tag": "mono_solo",
           "files": [
             {
-              "path": "mono_solo/heists_obh_briefcase_close_mt_thud.m4a",
-              "duration": 15.8,
-              "audibleDuration": 14.569
-            },
-            {
               "path": "mono_solo/mono_solo_01.m4a",
               "duration": 27.02,
               "audibleDuration": 25.87
@@ -12992,6 +12987,11 @@
               "path": "mono_solo/mono_solo_07.m4a",
               "duration": 10.43,
               "audibleDuration": 9.49
+            },
+            {
+              "path": "mono_solo/mono_solo_08.m4a",
+              "duration": 15.8,
+              "audibleDuration": 14.569
             },
             {
               "path": "mono_solo/mono_solo_09.m4a",
